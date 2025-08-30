@@ -1,7 +1,9 @@
 # Welcome to Betts profile
-## how to create a branch ##
-**click the code tab of repository**
-
+<P>Name:bett brian</P>
+## learning programming ##
+<P>whoami here</P>
+** duty **
+<P>ets learn programming</P>
 <!--
 **Bett0254/Bett0254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
