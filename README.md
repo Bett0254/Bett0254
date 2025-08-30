@@ -1,9 +1,9 @@
 # Welcome to Betts profile
 <P>Name:bett brian</P>
-## learning programming ##
+<h1>learning programming</h1>
 <P>whoami here</P>
-** duty **
-<P>ets learn programming</P>
+<h2>duty</h2>
+<P>lets learn programming</P>
 <!--
 **Bett0254/Bett0254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
